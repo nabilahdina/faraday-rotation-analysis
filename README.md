@@ -21,11 +21,11 @@ This project analyzes Faraday Rotation and optical polarization experimental dat
 
 ### Malus Law Verification
 
-![Malus Law](images/eksperimen-dan-percobaan.png)
+![Malus Law](images/eksperimen dan percobaan.png)
 
 ### Verdet Constant Determination
 
-![Verdet Constant](images/verdet-graphic.png)
+![Verdet Constant](images/verdet graphic.png)
 
 ## Skills Demonstrated
 - Data Analysis
